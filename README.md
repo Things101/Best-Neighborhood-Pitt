@@ -1,7 +1,7 @@
 # Best Neighborhood in Pittsburgh
 CMPINF 0010 Final Project
 
-**Team Name:** [Add something!]
+**Team Name:** Sherlock & The Holmes
 
 **Team Members**:
 - Irwin Jiang
