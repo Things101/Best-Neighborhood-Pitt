@@ -1,5 +1,4 @@
 # Best Neighborhood in Pittsburgh
-hello123 and ojre;ojaw;foiw
 
 CMPINF 0010, Group 6 “Sherlock and the Holmes” – Irwin Jiang (irj11@pitt.edu), Jason Xie (jxx2@pitt.edu), William Danielson (**`PLEASE ADD EMAIL`**)
 
