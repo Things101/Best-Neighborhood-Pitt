@@ -1,22 +1,23 @@
 # Best Neighborhood in Pittsburgh
+
 CMPINF 0010 Final Project
 
 **Team Name:** Sherlock & The Holmes
 
 **Team Members**:
+
 - Irwin Jiang
 - Jason Xie
--
+- William Danielson
 
 ## Metrics
 
-### Metric 1
+### Metric 1: Number of arrests
 
-### Metric 2
+### Metric 2: Number of fires
+
+This metric measures how many fires there are per capita in the neighborhoods.
 
 ### Metric 3
 
 ## Conclusions
-
-## Datasets & References
-<ul><a href="https://data.wprdc.org/dataset/arrest-data/resource/e03a89dd-134a-4ee8-a2bd-62c40aeebc6f">Arrest Data</a></ul>
